@@ -1,0 +1,23 @@
+
+[indentation]
+indent_width=4
+indent_type=1
+indent_hard_tab_width=8
+detect_indent=false
+indent_mode=2
+
+[project]
+name=Yahtzee
+base_path=/home/yarrith/Documents/Projects/Project Yahtzee/Yahtzee
+description=
+
+[long line marker]
+long_line_behaviour=1
+long_line_column=72
+
+[files]
+current_page=3
+FILE_NAME_0=0;Java;0;16;1;1;0;/home/yarrith/Documents/Projects/Project Yahtzee/Yahtzee/src/View/YahtzeeConsole.java;0;4
+FILE_NAME_1=0;Java;0;16;1;1;0;/home/yarrith/Documents/Projects/Project Yahtzee/Yahtzee/src/View/YahtzeeEventHandlers.java;0;4
+FILE_NAME_2=0;Java;0;16;1;1;0;/home/yarrith/Documents/Projects/Project Yahtzee/Yahtzee/src/View/YahtzeeGUI.java;0;4
+FILE_NAME_3=225;Java;0;16;1;1;0;/home/yarrith/Documents/Projects/Project Yahtzee/Yahtzee/src/DemoYahtzee.java;0;4

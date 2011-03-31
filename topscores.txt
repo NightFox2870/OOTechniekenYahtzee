@@ -1,0 +1,10 @@
+Karel 216
+Karel 216
+Jos 100
+Jef 90
+John 80
+Jack 70
+Jill 60
+Derek 50
+Matt 40
+Dirk 30
